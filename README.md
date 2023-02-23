@@ -14,3 +14,7 @@ Pre-trained, augmented and fine tuned model can be accesed from: https://drive.g
 
 Test images(frames) taken from video: https://drive.google.com/drive/folders/1q4sHb0i1JYnaxoFuZfveB3U5GN9xQ8yA?usp=share_link
 
+Train images(frames) taken from video: https://drive.google.com/drive/folders/1UkGSc5CQ-cXsOf4QfQB7uBJy-RuwYtnT?usp=share_link
+
+Validation images taken from video: https://drive.google.com/drive/folders/1wnUdGOPv1Svj9Gxi18LJflqkcC0cTa8u?usp=share_link
+
