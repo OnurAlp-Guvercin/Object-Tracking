@@ -12,3 +12,5 @@ Val.record file can be accesed from: https://drive.google.com/file/d/1Z0Y-G38yJO
 
 Pre-trained, augmented and fine tuned model can be accesed from: https://drive.google.com/file/d/1yWTv6jVqWMWe9GK-hWqdYKtp_PD6hVL_/view?usp=share_link
 
+Test images(frames) taken from video: https://drive.google.com/drive/folders/1q4sHb0i1JYnaxoFuZfveB3U5GN9xQ8yA?usp=share_link
+
