@@ -24,5 +24,7 @@ Val_video: https://drive.google.com/file/d/1tI3sAH0COWS6lz4tSc9tKgoZmxGyznxH/vie
 
 Test_video: https://drive.google.com/file/d/1swHZCEPwbDytkjjAvzfkkUZMM3tS6dkv/view?usp=share_link
 
+Model prediction on test video: https://drive.google.com/file/d/1GYTLOkyiouEkOTBdkTs22nZnsh49ixjm/view?usp=share_link
+
 
 
