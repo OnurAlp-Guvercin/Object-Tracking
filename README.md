@@ -2,7 +2,7 @@ Object Detection Model with EfficientNetD0
 
 This is a Python-based object detection model that uses the EfficientNetD0 architecture for image classification and object detection. 
 The model can read both images and videos, and generates bounding boxes for detected objects along with the label and percentage of confidence.
-Some augmentation techniques are implemented into config file of model. For more information -> stroma_object_detection.ipynb
+Some augmentation techniques are implemented into config file of model. For more information -> object_detection&tracking.ipynb
 
 You can access required files and trained models from below links.
 
